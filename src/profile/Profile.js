@@ -1,5 +1,5 @@
 import React from 'react';
-import './style.css';
+import './Profile.css';
 import PropTypes from 'prop-types';
 
 const Profile = ({fullName, profession, bio, children, handleName}) => {
